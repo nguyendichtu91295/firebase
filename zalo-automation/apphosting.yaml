@@ -1,14 +1,16 @@
 env:
   # Get these values from the Firebase console
-  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+  - variable: apiKey 
+    value: AIzaSyB_36RHpmJDalcKmAWfnN0cAOVX11ZzO58
+  - variable: authDomain 
+    value: zalo-3291f.firebaseapp.com
+  - variable: projectId 
+    value: zalo-3291f
+  - variable: storageBucket 
+    value: zalo-3291f.firebasestorage.app
+  - variable: messagingSenderId 
+    value: 860093104118
+  - variable: appId 
+    value: 1:860093104118:web:7cfbeb6df12a9afdf491d7
+  - variable: measurementId 
+    value: G-8HHR5FXK6
